@@ -28,6 +28,7 @@ public class EstruturasRepeticao {
         }
     }
 
+    /* 
     public static void main(String[] args) {
         String alunos [] = {"FELIPE", "JONAS", "JULIA", "MARCOS"};
 
@@ -35,4 +36,5 @@ public class EstruturasRepeticao {
             System.out.println("O nome do aluno é = " + aluno);
         }
     }
+     */
 }
